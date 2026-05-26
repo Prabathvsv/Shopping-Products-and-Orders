@@ -8,3 +8,8 @@ Coffee Maker	        ₹2,450
 Bluetooth Speaker	    ₹1,899
 Backpack	            ₹1,250
 Water Bottle	        ₹450
+
+Products on Sale:
+Pack of 10 Pens         ₹45
+A4 Sheets Bundle        ₹200  
+Single ruled book       ₹59
