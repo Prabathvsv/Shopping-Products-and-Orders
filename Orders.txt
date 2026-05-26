@@ -1,0 +1,4 @@
+Product                 Cost        Quantity    Price
+Gaming Keyboard	        ₹3,200      10          ₹32,000
+Office Chair	        ₹7,800      10          ₹78,000
+Coffee Maker	        ₹2,450      1           ₹2,450
